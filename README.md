@@ -1,9 +1,7 @@
-(https://github.com/user-attachments/files/22396063/exemplo-05.md)
-## 💜 Olá, meu nome é {seu nome}!
+## 💜 Olá, meu nome é {João Lucas}!
 
-Faça uma breve apresentação sobre você e a sua stack.
 
-🔭 u nome é João Lucas Rebello, sou estudante de **Ciência da Computação** na FURB e atualmente estagiário em **DevOps na Philips**.  
+🔭 Sou estudante de **Ciência da Computação** na FURB e atualmente estagiário em **DevOps na Philips**.  
 Tenho interesse em **desenvolvimento de software, automação e infraestrutura**, sempre buscando aprender novas tecnologias e boas práticas de programação.  
 
 🚀 No meu GitHub você vai encontrar projetos acadêmicos, estudos pessoais e experimentos que refletem meu aprendizado contínuo na área de tecnologia.  
