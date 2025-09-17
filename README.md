@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {João Lucas}!
+##  Olá, meu nome é João Lucas!
 
 
 🔭 Sou estudante de **Ciência da Computação** na FURB e atualmente estagiário em **DevOps na Philips**.  
