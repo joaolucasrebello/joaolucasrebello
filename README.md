@@ -29,4 +29,5 @@ Tenho interesse em **desenvolvimento de software, automação e infraestrutura**
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaolucasrebello&show_icons=true)
+[![João's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaolucasrebello&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
