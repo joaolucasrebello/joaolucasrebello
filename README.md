@@ -6,7 +6,7 @@ Tenho interesse em **desenvolvimento de software, automação e infraestrutura**
 
 🚀 No meu GitHub você vai encontrar projetos acadêmicos, estudos pessoais e experimentos que refletem meu aprendizado contínuo na área de tecnologia.  
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 LinkedIn:(https://www.linkedin.com/in/jo%C3%A3o-lucas-souza-919134322/)
 
 ---
 
