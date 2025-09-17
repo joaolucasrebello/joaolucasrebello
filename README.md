@@ -29,4 +29,4 @@ Tenho interesse em **desenvolvimento de software, automação e infraestrutura**
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaolucasrebello&show_icons=true)
