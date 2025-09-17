@@ -15,8 +15,6 @@ Tenho interesse em **desenvolvimento de software, automação e infraestrutura**
 
 ## 🚀 Minhas Skills
 
-### 🚀 Minhas Skills
-
 <p align="left">
   <!-- Kotlin -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
